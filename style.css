@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(122, 122, 238);
+}
+.heading{
+    width: 50%;
+    font-size: 25px;
+    font-family: 'Luxurious Roman', cursive;
+}
+.name_of_objects{
+    color: rgb(200, 255, 0);
+}
+label{
+    font-size: 20px;
+}
+#result_object_name,#result_object_accuracy{
+    color: rgb(238, 178, 160);
+}
+#camera{
+    width: 350px;
+    height: 310px;
+    border-style: dashed;
+}
